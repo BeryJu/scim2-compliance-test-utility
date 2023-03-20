@@ -24,7 +24,7 @@
         <commons.coll.version>4.4</commons.coll.version>
         <commons.io.version>2.7</commons.io.version>
 
-        <jackson.version>2.11.1</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <jackson-databind.version>2.11.1</jackson-databind.version>
         <scim2.sdk.version>2.3.5</scim2.sdk.version>
         <jersey.version>2.31</jersey.version>
